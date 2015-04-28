@@ -124,3 +124,8 @@ var vowelCounter = function(arr)	{
 	}
 }
 //NEED HELP	
+
+var vowelCounter = function (arr) {
+	strSplit = arr.split('');
+	for (var i = strSplit.length)
+}
